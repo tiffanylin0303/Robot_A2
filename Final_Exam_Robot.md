@@ -21,6 +21,7 @@ Autonomous Mobile Vehicles and Robots Introduction - final exam
     
 3️⃣After Class
 
+
 📌Practices time
 
     11/25 15:00-18:00
