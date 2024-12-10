@@ -10,7 +10,7 @@
 
 **📌Task 1 Pick-n-Place**
 
-過程介紹：總共使用三個Token和三個Block，用吸嘴的方式將工件從Infeed放到Align進行校正，校正後再放入Tray。
+過程介紹：總共使用3個Token和3個Block，用吸嘴的方式將工件從Infeed放到Align進行校正，校正後再放入Tray。
     
 During the test:
      
