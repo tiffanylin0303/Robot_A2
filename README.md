@@ -7,10 +7,9 @@
 
 
 **📌Task 0 Simulation**
-    
-    
-        
 
+    過程介紹：使用模擬器模擬機械手臂運作情形。
+<img width="704" alt="image" src="https://github.com/user-attachments/assets/e1bc31c8-1db8-41e0-8b11-129ab162223a">
 
 **📌Task 1 Pick-n-Place**
 
