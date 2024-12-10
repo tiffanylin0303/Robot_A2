@@ -47,7 +47,6 @@
 ![image](https://github.com/user-attachments/assets/2f167622-59f1-4f35-9d4a-9e059fa5a119)
 
 3️⃣After Class
-
 📌Practice time
 
     11/25 15:00-18:00
