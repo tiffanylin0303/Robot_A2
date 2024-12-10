@@ -12,6 +12,11 @@ Autonomous Mobile Vehicles and Robots Introduction - final exam
 2️⃣Task 0~3
 
     📌Task 0 Simulation
+    
+         Duting the test:
+
+![image](https://github.com/user-attachments/assets/d6f72c8a-22a4-4b9e-b397-7d365c0634d8)
+
 
     📌Task 1 Pick-n-Place
     
@@ -29,13 +34,13 @@ Autonomous Mobile Vehicles and Robots Introduction - final exam
             🔴:停止
             
         過程介紹：
-            按下⚪️的次數，表示堆疊的工件數量（數量可更改），設定完堆疊數量後按下🔵執行程式，若堆疊數量超過10個工件，程式會自動啟動防呆機制，停止運作，同時蜂鳴器會響起。
-            
-
+            按下⚪️的次數，表示堆疊的工件數量（數量可更改），
+            設定完堆疊數量後按下🔵執行程式，
+            若堆疊數量超過10個工件，程式會自動啟動防呆機制，停止運作，同時蜂鳴器會響起。
         
             CAD wiring diagram
     
-![2E1C971881AA20D0ECE75B6EC55261B113E2FA32](https://github.com/user-attachments/assets/f370a2e2-10b8-4478-b844-2ed37fac988f)
+![image](https://github.com/user-attachments/assets/2f167622-59f1-4f35-9d4a-9e059fa5a119)
 
             Duting the test:
 
