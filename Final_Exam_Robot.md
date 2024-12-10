@@ -11,38 +11,46 @@ Autonomous Mobile Vehicles and Robots Introduction - final exam
 
 2️⃣Task 0~3
 
-    📌Task 0 Simulation
+  💻Code: 
+[20241203.zip](https://github.com/user-attachments/files/18075416/20241203.zip)
+
     
-         Duting the test:
+  📌Task 0 Simulation
+    
+        Duting the test:
+
+
+
+  📌Task 1 Pick-n-Place
+
+
+
+    
+  📌Task 2 Stacking
 
 ![image](https://github.com/user-attachments/assets/d6f72c8a-22a4-4b9e-b397-7d365c0634d8)
-
-
-    📌Task 1 Pick-n-Place
     
-    📌Task 2 Stacking
-    
-    📌Task 3 Intergration
+  📌Task 3 Intergration
 
-        按鈕說明：
+    按鈕說明：
         
-            🚨:蜂鳴器
-            ⚪️:工件堆疊數量
-            🔵:開始 
-            🟢:繼續
-            🟠:暫停（三秒後繼續）
-            🔴:停止
+         🚨:蜂鳴器
+         ⚪️:工件堆疊數量
+         🔵:開始 
+         🟢:繼續
+         🟠:暫停（三秒後繼續）
+         🔴:停止
             
-        過程介紹：
-            按下⚪️的次數，表示堆疊的工件數量（數量可更改），
-            設定完堆疊數量後按下🔵執行程式，
-            若堆疊數量超過10個工件，程式會自動啟動防呆機制，停止運作，同時蜂鳴器會響起。
+     過程介紹：
+         按下⚪️的次數，表示堆疊的工件數量（數量可更改），
+         設定完堆疊數量後按下🔵執行程式，
+         若堆疊數量超過10個工件，程式會自動啟動防呆機制，停止運作，同時蜂鳴器會響起。
         
-            CAD wiring diagram
+     CAD wiring diagram
     
 ![image](https://github.com/user-attachments/assets/2f167622-59f1-4f35-9d4a-9e059fa5a119)
 
-            Duting the test:
+     Duting the test:
 
 ![IMG_1895](https://github.com/user-attachments/assets/cb33dac3-56ef-4ec9-ad12-95b4f8d6e30f)
 
