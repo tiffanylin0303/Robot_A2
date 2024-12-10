@@ -14,17 +14,13 @@
 
 **📌Task 1 Pick-n-Place**
 
-過程介紹：總共使用3個Token和3個Block，用吸嘴的方式將工件從Infeed放到Align進行校正，校正後再放入Tray。
-    
-During the test:
+    過程介紹：總共使用3個Token和3個Block，用吸嘴的方式將工件從Infeed放到Align進行校正，校正後再放入Tray。
      
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/e355e715-3605-4495-8b97-6f4d2054aff8">
 
 **📌Task 2 Stacking**
 
-過程介紹：從Infeed抓取10個Token和10個Block交替堆疊到Align。
-
-During the test:
+    過程介紹：從Infeed抓取10個Token和10個Block交替堆疊到Align。
 
 ![image](https://github.com/user-attachments/assets/d6f72c8a-22a4-4b9e-b397-7d365c0634d8)
     
@@ -43,9 +39,6 @@ During the test:
             按下⚪️的次數，表示堆疊的工件數量（數量可更改），
             設定完堆疊數量後按下🔵執行程式，
             若堆疊數量超過10個工件，程式會自動啟動防呆機制，停止運作，同時蜂鳴器會響起。
-        
-           
-During the test:
 
 ![IMG_1895](https://github.com/user-attachments/assets/cb33dac3-56ef-4ec9-ad12-95b4f8d6e30f)
 
