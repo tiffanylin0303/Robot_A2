@@ -29,7 +29,8 @@ Autonomous Mobile Vehicles and Robots Introduction - final exam
             🔴:停止
             
         過程介紹：
-            使用
+            按下⚪️的次數，表示堆疊的工件數量（數量可更改），設定完堆疊數量後按下🔵執行程式，若堆疊數量超過10個工件，程式會自動啟動防呆機制，停止運作，同時蜂鳴器會響起。
+            
 
         
             CAD wiring diagram
