@@ -18,8 +18,31 @@ Autonomous Mobile Vehicles and Robots Introduction - final exam
     📌Task 2 Stacking
     
     📌Task 3 Intergration
+
+        按鈕說明：
+        
+            🚨:蜂鳴器
+            ⚪️:工件堆疊數量
+            🔵:開始 
+            🟢:繼續
+            🟠:暫停（三秒後繼續）
+            🔴:停止
+            
+        過程介紹：
+            使用
+
+        
+            CAD wiring diagram
+    
+![2E1C971881AA20D0ECE75B6EC55261B113E2FA32](https://github.com/user-attachments/assets/f370a2e2-10b8-4478-b844-2ed37fac988f)
+
+            Duting the test:
+
+![IMG_1895](https://github.com/user-attachments/assets/cb33dac3-56ef-4ec9-ad12-95b4f8d6e30f)
+
     
 3️⃣After Class
+
 
 
 📌Practices time
