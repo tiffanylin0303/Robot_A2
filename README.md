@@ -1,12 +1,6 @@
 **Autonomous Mobile Vehicles and Robots Introduction - Final Exam**
 
-**1️⃣Readme.MD**
-
-
-
-
-
-**2️⃣Task 0~3**
+**1️⃣Task 0~3**
 
 **📌Task 0 Simulation**
     
@@ -24,7 +18,7 @@ During the test:
 
 **📌Task 2 Stacking**
 
-過程介紹：從Infeed抓取Align進行校正，校正後再放入Tray。
+過程介紹：從Infeed抓取10個Token和10個Block交替堆疊到Align。
 
 During the test:
 
@@ -51,24 +45,20 @@ During the test:
 
 ![IMG_1895](https://github.com/user-attachments/assets/cb33dac3-56ef-4ec9-ad12-95b4f8d6e30f)
 
-3️⃣Wiring diagram、I/O design:
+2️⃣Wiring diagram、I/O design:
     
 ![image](https://github.com/user-attachments/assets/2f167622-59f1-4f35-9d4a-9e059fa5a119)
 
 3️⃣After Class
 
-
-
-📌Practices time
+📌Practice time
 
     11/25 15:00-18:00
     12/6  14:00-18:00
     12/9  15:00-20:00
     
-📌Practices photo
+📌Practice photo
 
 ![IMG_1058](https://github.com/user-attachments/assets/2e7f9eb8-7730-442c-9700-f74b458d30bd)
-
-
 
 ![IMG_1881](https://github.com/user-attachments/assets/87c6dfd8-1d86-41fd-a832-dccc1cba0ec4)
