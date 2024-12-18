@@ -1,6 +1,6 @@
 **Autonomous Mobile Vehicles and Robots Introduction - Final Exam**
 
- **👥成員及責任分配**
+ **👥成員責任分配**
 | 姓名     | 負責項目                    |
 |----------|----------------------------|
 | 劉恩慈 | Github、機械手臂練習與操作       |
